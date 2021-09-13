@@ -1,2 +1,2 @@
 # Weather_App
-Own weather app created by making a JSON API call to weathermap.org api using jQuery AJAX methods.
+ weather app created from the openWeatherMap weather API using jQuery's .get() method and JSON
